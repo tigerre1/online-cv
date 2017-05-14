@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Viivi Tigerstedt
-tagline: Musiikin opiskelijar
+tagline: Musiikin opiskelija
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
